@@ -4,6 +4,9 @@ document.addEventListener("DOMContentLoaded", function() {
   let p = document.createElement("p");
   let button = document.createElement("button");
   let btnText = document.createTextNode("Sing!");
+  
+  document.body.appendChild(button);
+  button.appendChild(btnText);
 
   button.addEventListener("click", function() {
     for (f = 0; f < friends.length; f++) {

@@ -9,7 +9,7 @@ You should copy your files from part 1 and paste them along with this README fil
 
 
 New Objectives
-Put a button in the HTML that says Sing!
+# Put a button in the HTML that says Sing!
 
     Stepping Stone: When you click the button, all the console.log statements from yesterday should happen. They SHOULD NOT happen before the button is clicked.
 
